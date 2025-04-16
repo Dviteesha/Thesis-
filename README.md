@@ -111,7 +111,6 @@ Goa University
 ## 📚 Citation & Acknowledgements
 
 - ROAR Algorithm: *Reinforcement Learning Based Online Active Learning for Human Activity Recognition — ISWC 2022*  
-- MYO Armband Datasets and IMU Dataset sources (mention in data folder if redistributed)
 
 ---
 ```
